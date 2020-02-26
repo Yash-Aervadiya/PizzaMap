@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "254169270852",
+    "firebase_url": "https://pizzamap-63f7f.firebaseio.com",
+    "project_id": "pizzamap-63f7f",
+    "storage_bucket": "pizzamap-63f7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254169270852:android:3f96efc5748030fa168a11",
+        "android_client_info": {
+          "package_name": "com.app.pizza_map"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254169270852-nr0g2n1alivcq7l21e253s0c4cfq8evg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd1YIgmzAkWZr2AiLwQzOQroq2XqYt5_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254169270852-nr0g2n1alivcq7l21e253s0c4cfq8evg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
